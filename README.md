@@ -24,8 +24,9 @@ The **Medical AI Agent** is an AI-powered chatbot designed to assist users with 
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/medical-ai-agent.git
-   cd medical-ai-agent
+   git clone https://github.com/hemasriram111/medical-assistance.git
+   cd medical-assistance
+   
    ```
 2. Create a virtual environment (optional but recommended):
    ```sh
